@@ -17,6 +17,8 @@
         // echo 'la media è' . $arr / $index;
         
         
+        //!es 2
+
         // $users = [ ['name' => 'Pippo','surname' => 'Pluto','gender' => 'M'],
         // ['name' => 'Sasso','surname' => 'Pluto','gender' => 'M'],
         // ['name' => 'Minnie','surname' => 'Pluto','gender' => 'F'],
@@ -42,6 +44,8 @@
         // }
 
 
+            //! es 3
+
         for($i = 1; $i < 101; $i++){
             if ($i %3==0 && $i %5==0){
                 echo "HACKADEMY \n";
@@ -53,4 +57,3 @@
                 echo "$i \n";
             }
         }
-
